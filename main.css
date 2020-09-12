@@ -1,0 +1,17 @@
+:root{
+    background-color: black;
+    color: #f8f9f5;
+    font-family: 'Quicksand', sans-serif;
+}
+.screen{
+    position: relative;
+}
+#intro{
+    position: absolute;
+    bottom: 1%;
+    left: 1%;
+    font-size: 50px;
+}
+#intro::first-letter{
+    color: red;
+}
