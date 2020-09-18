@@ -98,7 +98,7 @@ function replaceUrls(text) {
 	}
 }
 ////////////////////////////
-Typer.speed=300;
+Typer.speed=3;
 Typer.file="content.txt"; // add your own name here
 Typer.init();
  

@@ -1,5 +1,5 @@
 body {
-	background-color: #000
+	background-color: black
 }
 
 #console {
@@ -14,11 +14,13 @@ body {
 
 a {
 	color: #0bc;
+	/* color: red; */
 	text-decoration: none;
 }
 
 #a {
 	color: #0f0;
+	/* color: red; */
 }
 
 #c {
@@ -26,7 +28,8 @@ a {
 }
 
 #b {
-	color: #ff0096;
+	/* tilde ~ */
+	color: red;
 }
 
 #k {
