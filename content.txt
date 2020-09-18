@@ -1,7 +1,7 @@
 <span id="a">Jonathan@CTKuo</span>:<span id="b">~</span><span id="c">$</span> cd /<!-- laglaglaglaglaglag -->About_Me
 <span id="a">Jonathan@CTKuo</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Jonathan.txt<br/>
 
-Resume. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+Resume. <a href="resume_ChiaTseKuo_web.pdf" target="_blank"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p>Projects && Posts && Thoughts:<br> 
 <a href="https://medium.com/@jonathan.kuo33/architecture-in-classical-music-aaf3074ecf82">Architecture in Classical Music</a>
 <a href="https://github.com/chiatsekuo/BoidAlgorithm">Boids Algorithm</a>
