@@ -7,8 +7,9 @@ Resume. <a href="resume_ChiaTseKuo_web.pdf" target="_blank"> Here you go</a>.</p
 <a href="https://github.com/chiatsekuo/BoidAlgorithm">Boids Algorithm</a>
 <a href="https://medium.com/@jonathan.kuo33/genetic-algorithm-in-artificial-neural-network-5f5b9c9467d0">Genetic Algorithm in Artificial Neural Network and its optimization methods</a>
 </p>
+Listen to my <a href="https://soundcloud.com/chiatse-kuo" target="_blank">Music</a><br>
 
-Feel free to send me an email at<!-- longlonglongcomment --><a href="mailto: jonathan.kuo33@gmail.com" target="_blank"> Email</a>.
+Feel free to send me an <a href="mailto: jonathan.kuo33@gmail.com" target="_blank"> email </a>
 Or connect me at <a href="https://www.linkedin.com/in/jonathan-kuo-8529281a5/" target="_blank"> Linkedin</a> or <a href="https://github.com/chiatsekuo" target="_blank"> Github</a>
 
 
