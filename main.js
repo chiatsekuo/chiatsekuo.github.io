@@ -2,7 +2,7 @@ var Typer={
 	text: null,
 	accessCountimer:null,
 	index:0, 
-	speed:2,
+	speed:10,
 	file:"", 
 	accessCount:0,
 	deniedCount:0, 
@@ -98,7 +98,7 @@ function replaceUrls(text) {
 	}
 }
 ////////////////////////////
-Typer.speed=3;
+Typer.speed=5;
 Typer.file="content.txt"; // add your own name here
 Typer.init();
  

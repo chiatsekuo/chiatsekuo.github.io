@@ -1,19 +1,12 @@
 <span id="a">Jonathan@CTKuo</span>:<span id="b">~</span><span id="c">$</span> cd /<!-- laglaglaglaglaglag -->About_Me
 <span id="a">Jonathan@CTKuo</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Jonathan.txt<br/>
 
-Resume. <a href="resume_ChiaTseKuo_2020.pdf" target="_blank"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p>Projects && Posts && Thoughts:<br>
-<a href="https://medium.com/@jonathan.kuo33/genetic-algorithm-in-artificial-neural-network-5f5b9c9467d0">Genetic Algorithm in Artificial Neural Network and its optimization methods</a>
-<a href="https://medium.com/@jonathan.kuo33/artificial-intelligence-at-play-connect-four-minimax-algorithm-explained-3b5fc32e4a4f">Artificial Intelligence at Play — Connect Four (Minimax algorithm explained)</a>
-<a href="https://medium.com/analytics-vidhya/multiclass-image-classification-problem-convolutional-neural-network-trains-on-galaxy-images-6ca6aa74e5d7">Multiclass image classification problem — Convolutional Neural Network trains on Galaxy images</a>
-<a href="https://medium.com/analytics-vidhya/cactus-image-classification-using-convolutional-neural-network-cnn-that-reaches-98-accuracy-8432e068f1ea">Cactus image classification using convolutional neural network (CNN)</a>
-<a href="https://github.com/chiatsekuo/BoidAlgorithm">Boids Algorithm</a>
-<a href="https://medium.com/@jonathan.kuo33/architecture-in-classical-music-aaf3074ecf82">Architecture in Classical Music</a>
-</p>
+Resume. <a href="resume_ChiaTseKuo_2021.pdf" target="_blank"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>Projects && Posts && Thoughts: <a href="https://jonathan-kuo.medium.com/">Medium.com</a></p>
 Listen to my <a href="https://soundcloud.com/chiatse-kuo" target="_blank">Music</a><br>
 
 Feel free to send me an <a href="mailto: jonathan.kuo33@gmail.com" target="_blank"> email </a>
-Or connect me at <a href="https://www.linkedin.com/in/jonathan-kuo-8529281a5/" target="_blank"> Linkedin</a> or <a href="https://github.com/chiatsekuo" target="_blank"> Github</a>
+Or connect me at <a href="https://www.linkedin.com/in/jonathanctkuo/" target="_blank"> Linkedin</a> or <a href="https://github.com/chiatsekuo" target="_blank"> Github</a>
 
 
 <p>Cheers!</p>
